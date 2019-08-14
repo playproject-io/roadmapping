@@ -11,6 +11,8 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`smartcontract.codes#3`: fix broken english on smartcontract.codes and in the editor](https://github.com/playproject-io/smartcontract.codes/issues/3)
     * [ ] [`smartcontract.codes#4`: make a survey to get user feedback](https://github.com/playproject-io/smartcontract.codes/issues/4)
     * [ ] [`hosting#1`: concept](https://github.com/playproject-io/hosting/issues/1)
+    * [ ] [`scsen#1`: concept](https://github.com/playproject-io/scsen/issues/1)
+    * [ ] [`play-ed#2`: concept](https://github.com/playproject-io/play-ed/issues/2)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
