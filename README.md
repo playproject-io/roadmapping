@@ -23,8 +23,10 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 1. [org-page](https://github.com/playproject-io/playproject-io.github.io)
     * [blog](https://github.com/playproject-io/blog)
 2. [hosting](https://github.com/playproject-io/hosting)
-    *  [aybabtu](https://github.com/playproject-io/aybabtu)
-3. [play-ed](https://github.com/playproject-io/play-ed)
+    * [aybabtu](https://github.com/playproject-io/aybabtu)
+3. [smartcontract.codes](https://github.com/playproject-io/smartcontract.codes)
+    * [play-ed](https://github.com/playproject-io/play-ed)
+    * [scsen](https://github.com/playproject-io/scsen)
 
 ---
 # changelog
