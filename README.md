@@ -16,6 +16,8 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`org-page#1`: concept](https://github.com/playproject-io/playproject-io.github.io/issues/1)
     * [ ] [`org-page#2`: Play brand book / design guide](https://github.com/playproject-io/playproject-io.github.io/issues/2)
     * [ ] [`play-ed#4`: add tiling window manager](https://github.com/playproject-io/play-ed/issues/4)
+    * [ ] [`roadmapping#3`: automate devops](https://github.com/playproject-io/roadmapping/issues/3)
+    * [ ] [`roadmapping#4`: curriculum planning](https://github.com/playproject-io/roadmapping/issues/4)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
