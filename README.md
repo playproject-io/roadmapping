@@ -24,6 +24,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`smartcontract-ui#3`: concept](https://github.com/playproject-io/smartcontract-ui/issues/3)
     * [ ] [`scsen#2`: AST import statement analysis and content hash replacement](https://github.com/playproject-io/scsen/issues/2)
     * [ ] [`scsen#3`: cleanse data entries](https://github.com/playproject-io/scsen/issues/3)
+    * [ ] [`scsen#5`: p2p publish data archive](https://github.com/playproject-io/scsen/issues/5)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
@@ -43,3 +44,4 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 
 ---
 # changelog
+...
