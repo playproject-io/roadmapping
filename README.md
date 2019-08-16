@@ -32,6 +32,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`solc-js#1`: use webworker](https://github.com/playproject-io/solc-js/issues/1)
     * [ ] [`solc-js#2`: solc-js concept & updates](https://github.com/playproject-io/solc-js/issues/2)
     * [ ] [`play-ed#5`: standardize (un)installable "commands/packages"](https://github.com/playproject-io/play-ed/issues/5)
+    * [ ] [`roadmapping#5`: virtual agent generator](https://github.com/playproject-io/roadmapping/issues/5)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
