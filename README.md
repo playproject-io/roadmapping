@@ -45,6 +45,8 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 3. [smartcontract.codes](https://github.com/playproject-io/smartcontract.codes)
     * [play-ed](https://github.com/playproject-io/play-ed)
     * [scsen](https://github.com/playproject-io/scsen)
+4. [wallet](https://github.com/playproject-io/wallet)
+    * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
 
 ---
 # changelog
