@@ -43,6 +43,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`roadmapping#14` think about hackathon nigeria/lagos in 2020?](https://github.com/playproject-io/roadmapping/issues/14)
     * [ ] [`roadmapping#11`: 2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
     * [ ] [`roadmapping#12`: 2019.10.08,2019.10.11 | attend and organize breakout session at devcon5](https://github.com/playproject-io/roadmapping/issues/12)
+    * [ ] [`generate-workshop#2`: generate-workshop concept & updates](https://github.com/playproject-io/generate-workshop/issues/2)
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
     * [ ] ...
@@ -63,6 +64,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [solverify](https://github.com/playproject-io/solverify)
 4. [wallet](https://github.com/playproject-io/wallet)
     * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
+5. [generate-workshop](https://github.com/playproject-io/generate-workshop)
 
 ---
 # changelog
