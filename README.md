@@ -48,6 +48,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 2. [ ] **`v1.0.0`** beta release
     * [ ] ...
 3. [ ] **`v?.?.?`** backlog
+    * [ ] [`solc-js#9`: (add vyper compiler)](https://github.com/playproject-io/solc-js/issues/9)
     * [ ] ...
 
 ---
