@@ -46,6 +46,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`generate-workshop#2`: generate-workshop concept & updates](https://github.com/playproject-io/generate-workshop/issues/2)
     * [ ] [`roadmapping#15`: improve roadmapping](https://github.com/playproject-io/roadmapping/issues/15)
     * [ ] [`roadmapping#17`: add version titles and descriptions](https://github.com/playproject-io/roadmapping/issues/17)
+    * [ ] [`roadmapping#19`: issues estimation game](https://github.com/playproject-io/roadmapping/issues/19)
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
     * [ ] ...
