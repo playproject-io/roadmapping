@@ -22,9 +22,11 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`smartcontract-ui#1`: change api to allow making either template forms or contract forms](https://github.com/playproject-io/smartcontract-ui/issues/1)
     * [ ] [`smartcontract-ui#2`: theme & styleguide](https://github.com/playproject-io/smartcontract-ui/issues/2)
     * [ ] [`smartcontract-ui#3`: concept](https://github.com/playproject-io/smartcontract-ui/issues/3)
+    * [ ] [`smartcontract-ui#4`: executable web3 snippets](https://github.com/playproject-io/smartcontract-ui/issues/4)
     * [ ] [`scsen#2`: AST import statement analysis and content hash replacement](https://github.com/playproject-io/scsen/issues/2)
     * [ ] [`scsen#3`: cleanse data entries](https://github.com/playproject-io/scsen/issues/3)
     * [ ] [`scsen#5`: p2p publish data archive](https://github.com/playproject-io/scsen/issues/5)
+    * [ ] [`blog#1`: technical writing](https://github.com/playproject-io/blog/issues/1)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
