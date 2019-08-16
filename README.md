@@ -36,6 +36,13 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`play-ed#6`: minimal "browser first" testing library + test reporter](https://github.com/playproject-io/play-ed/issues/6)
     * [ ] [`smartcontract.codes#6`: smartcontract.codes concept & updates](https://github.com/playproject-io/smartcontract.codes/issues/6)
     * [ ] ...
+    * [ ] [`roadmapping#8` 2019.09.01,??? | coding meetup | UK](https://github.com/playproject-io/roadmapping/issues/8)
+    * [ ] [`roadmapping#7` 2019.10.20,2019.11.20 | code camp | thailand](https://github.com/playproject-io/roadmapping/issues/7)
+    * [ ] [`roadmapping#6` 2019.12.01,2019.01.01 | code camp | south korea](https://github.com/playproject-io/roadmapping/issues/6)
+    * [ ] [`roadmapping#13` think about codecamp in greece/crete? ...maybe in january 2020?](https://github.com/playproject-io/roadmapping/issues/13)
+    * [ ] [`roadmapping#14` think about hackathon nigeria/lagos in 2020?](https://github.com/playproject-io/roadmapping/issues/14)
+    * [ ] [`roadmapping#11`: 2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
+    * [ ] [`roadmapping#12`: 2019.10.08,2019.10.11 | attend and organize breakout session at devcon5](https://github.com/playproject-io/roadmapping/issues/12)
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
     * [ ] ...
