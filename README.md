@@ -29,6 +29,9 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`blog#1`: technical writing](https://github.com/playproject-io/blog/issues/1)
     * [ ] [`wallet-simulator#1`: add network simulator wallet feature](https://github.com/playproject-io/wallet-simulator/issues/1)
     * [ ] [`org-page#3`: custom domain](https://github.com/playproject-io/playproject-io.github.io/issues/3)
+    * [ ] [`solc-js#1`: use webworker](https://github.com/playproject-io/solc-js/issues/1)
+    * [ ] [`solc-js#2`: solc-js concept & updates](https://github.com/playproject-io/solc-js/issues/2)
+    * [ ] [`play-ed#5`: standardize (un)installable "commands/packages"](https://github.com/playproject-io/play-ed/issues/5)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
