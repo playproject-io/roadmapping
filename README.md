@@ -28,6 +28,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`scsen#5`: p2p publish data archive](https://github.com/playproject-io/scsen/issues/5)
     * [ ] [`blog#1`: technical writing](https://github.com/playproject-io/blog/issues/1)
     * [ ] [`wallet-simulator#1`: add network simulator wallet feature](https://github.com/playproject-io/wallet-simulator/issues/1)
+    * [ ] [`org-page#3`: custom domain](https://github.com/playproject-io/playproject-io.github.io/issues/3)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
