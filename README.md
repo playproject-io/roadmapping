@@ -34,6 +34,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`play-ed#5`: standardize (un)installable "commands/packages"](https://github.com/playproject-io/play-ed/issues/5)
     * [ ] [`roadmapping#5`: virtual agent generator](https://github.com/playproject-io/roadmapping/issues/5)
     * [ ] [`play-ed#6`: minimal "browser first" testing library + test reporter](https://github.com/playproject-io/play-ed/issues/6)
+    * [ ] [`smartcontract.codes#6`: smartcontract.codes concept & updates](https://github.com/playproject-io/smartcontract.codes/issues/6)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
