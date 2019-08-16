@@ -11,7 +11,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`smartcontract.codes#3`: fix broken english on smartcontract.codes and in the editor](https://github.com/playproject-io/smartcontract.codes/issues/3)
     * [ ] [`smartcontract.codes#4`: make a survey to get user feedback](https://github.com/playproject-io/smartcontract.codes/issues/4)
     * [ ] [`hosting#1`: concept](https://github.com/playproject-io/hosting/issues/1)
-    * [ ] [`scsen#1`: concept](https://github.com/playproject-io/scsen/issues/1)
+    * [ ] [`scsen#1`: scraper concept & updates](https://github.com/playproject-io/scsen/issues/1)
     * [ ] [`play-ed#2`: concept](https://github.com/playproject-io/play-ed/issues/2)
     * [ ] [`org-page#1`: concept](https://github.com/playproject-io/playproject-io.github.io/issues/1)
     * [ ] [`org-page#2`: Play brand book / design guide](https://github.com/playproject-io/playproject-io.github.io/issues/2)
@@ -23,6 +23,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`smartcontract-ui#2`: theme & styleguide](https://github.com/playproject-io/smartcontract-ui/issues/2)
     * [ ] [`smartcontract-ui#3`: concept](https://github.com/playproject-io/smartcontract-ui/issues/3)
     * [ ] [`scsen#2`: AST import statement analysis and content hash replacement](https://github.com/playproject-io/scsen/issues/2)
+    * [ ] [`scsen#3`: cleanse data entries](https://github.com/playproject-io/scsen/issues/3)
     * [ ] ...
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
