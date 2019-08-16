@@ -44,7 +44,9 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [aybabtu](https://github.com/playproject-io/aybabtu)
 3. [smartcontract.codes](https://github.com/playproject-io/smartcontract.codes)
     * [play-ed](https://github.com/playproject-io/play-ed)
+        * [smartcontract-ui](https://github.com/playproject-io/smartcontract-ui)
     * [scsen](https://github.com/playproject-io/scsen)
+    * [solverify](https://github.com/playproject-io/solverify)
 4. [wallet](https://github.com/playproject-io/wallet)
     * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
 
