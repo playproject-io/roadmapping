@@ -15,7 +15,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`play-ed#2`: concept](https://github.com/playproject-io/play-ed/issues/2)
     * [ ] [`org-page#1`: org-page concept & updates](https://github.com/playproject-io/playproject-io.github.io/issues/1)
     * [ ] [`org-page#2`: Play brand book / design guide](https://github.com/playproject-io/playproject-io.github.io/issues/2)
-    * [ ] [`play-ed#4`: add tiling window manager](https://github.com/playproject-io/play-ed/issues/4)
+    * [ ] [`play-ed#4`: add & improve tiling window manager](https://github.com/playproject-io/play-ed/issues/4)
     * [ ] [`play-ed#3`: theme & styleguide](https://github.com/playproject-io/play-ed/issues/3)
     * [ ] [`roadmapping#3`: automate devops](https://github.com/playproject-io/roadmapping/issues/3)
     * [ ] [`roadmapping#4`: curriculum planning](https://github.com/playproject-io/roadmapping/issues/4)
@@ -51,7 +51,8 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] ...
 3. [ ] **`v?.?.?`** backlog
     * [ ] [`solc-js#9`: (add vyper compiler)](https://github.com/playproject-io/solc-js/issues/9)
-    * [ ] [`roadmapping#16`: publish/create (paid) tasks](https://github.com/playproject-io/roadmapping/issues/16)
+    * [ ] [`roadmapping#16`: publish/create/display (paid) tasks](https://github.com/playproject-io/roadmapping/issues/16)
+    * [ ] [`roadmapping#18`: open & maintain legal entity to do business](https://github.com/playproject-io/roadmapping/issues/18)
     * [ ] ...
 
 ---
