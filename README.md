@@ -13,7 +13,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`hosting#1`: concept](https://github.com/playproject-io/hosting/issues/1)
     * [ ] [`scsen#1`: scraper concept & updates](https://github.com/playproject-io/scsen/issues/1)
     * [ ] [`play-ed#2`: concept](https://github.com/playproject-io/play-ed/issues/2)
-    * [ ] [`org-page#1`: concept](https://github.com/playproject-io/playproject-io.github.io/issues/1)
+    * [ ] [`org-page#1`: org-page concept & updates](https://github.com/playproject-io/playproject-io.github.io/issues/1)
     * [ ] [`org-page#2`: Play brand book / design guide](https://github.com/playproject-io/playproject-io.github.io/issues/2)
     * [ ] [`play-ed#4`: add tiling window manager](https://github.com/playproject-io/play-ed/issues/4)
     * [ ] [`play-ed#3`: theme & styleguide](https://github.com/playproject-io/play-ed/issues/3)
