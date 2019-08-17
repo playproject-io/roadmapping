@@ -47,6 +47,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`roadmapping#15`: improve roadmapping](https://github.com/playproject-io/roadmapping/issues/15)
     * [ ] [`roadmapping#17`: add version titles and descriptions](https://github.com/playproject-io/roadmapping/issues/17)
     * [ ] [`roadmapping#19`: issues estimation game](https://github.com/playproject-io/roadmapping/issues/19)
+    * [ ] [`wallet-data#1`: wallet-data concept & updates](https://github.com/playproject-io/wallet-data/issues/1)
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
     * [ ] ...
@@ -70,6 +71,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [solverify](https://github.com/playproject-io/solverify)
 4. [wallet](https://github.com/playproject-io/wallet)
     * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
+    * [wallet-data](https://github.com/playproject-io/wallet-data)
 5. [generate-workshop](https://github.com/playproject-io/generate-workshop)
 
 ---
