@@ -46,7 +46,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`roadmapping#11`: 2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
     * [ ] [`roadmapping#12`: 2019.10.08,2019.10.11 | attend and organize breakout session at devcon5](https://github.com/playproject-io/roadmapping/issues/12)
     * [ ] [`generate-workshop#2`: generate-workshop concept & updates](https://github.com/playproject-io/generate-workshop/issues/2)
-    * [ ] [`roadmapping#15`: improve roadmapping](https://github.com/playproject-io/roadmapping/issues/15)
+    * [ ] [`roadmapping#15`: roadmapping concept & updates](https://github.com/playproject-io/roadmapping/issues/15)
     * [ ] [`roadmapping#17`: add version titles and descriptions](https://github.com/playproject-io/roadmapping/issues/17)
     * [ ] [`roadmapping#19`: issues estimation game](https://github.com/playproject-io/roadmapping/issues/19)
     * [ ] [`wallet-data#1`: wallet-data concept & updates](https://github.com/playproject-io/wallet-data/issues/1)
