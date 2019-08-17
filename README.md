@@ -51,7 +51,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`roadmapping#19`: issues estimation game](https://github.com/playproject-io/roadmapping/issues/19)
     * [ ] [`wallet-data#1`: wallet-data concept & updates](https://github.com/playproject-io/wallet-data/issues/1)
     * [ ] [`roadmapping#21`: standardize user feedback](https://github.com/playproject-io/roadmapping/issues/21)
-    * [ ] [`roadmapping#22`: roadmapping concept & updates](https://github.com/playproject-io/roadmapping/issues/22)
+    * [ ] [`roadmapping#22`: document contribution process in readme](https://github.com/playproject-io/roadmapping/issues/22)
     * [ ] [`wallet#1`: wallet concept & updates](https://github.com/playproject-io/wallet/issues/1)
     * [ ] [`wallet-simulator#2`: wallet-simulator concept & updates](https://github.com/playproject-io/wallet-simulator/issues/2)
     * [ ] [`solverify#2`: solverify concept & updates](https://github.com/playproject-io/solverify/issues/2)
