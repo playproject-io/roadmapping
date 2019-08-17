@@ -53,6 +53,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`wallet#1`: wallet concept & updates](https://github.com/playproject-io/wallet/issues/1)
     * [ ] [`wallet-simulator#2`: wallet-simulator concept & updates](https://github.com/playproject-io/wallet-simulator/issues/2)
     * [ ] [`solverify#2`: solverify concept & updates](https://github.com/playproject-io/solverify/issues/2)
+    * [ ] [`blog#2`: blog concept & updates](https://github.com/playproject-io/blog/issues/2)
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
     * [ ] ...
