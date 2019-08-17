@@ -81,7 +81,9 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 4. [wallet](https://github.com/playproject-io/wallet)
     * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
     * [wallet-data](https://github.com/playproject-io/wallet-data)
-5. [generate-workshop](https://github.com/playproject-io/generate-workshop)
+5. [roadmapping](https://github.com/playproject-io/roadmapping)
+    * [generate-workshop](https://github.com/playproject-io/generate-workshop)
+    * [generate-codecamp](https://github.com/playproject-io/generate-codecamp)
 
 ---
 # changelog
