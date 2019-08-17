@@ -57,6 +57,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`solverify#2`: solverify concept & updates](https://github.com/playproject-io/solverify/issues/2)
     * [ ] [`blog#2`: blog concept & updates](https://github.com/playproject-io/blog/issues/2)
     * [ ] [`play-ed#11`: iframe browser](https://github.com/playproject-io/play-ed/issues/11)
+    * [ ] [`generate-codecamp#1`: generate-codecamp concept & updates](https://github.com/playproject-io/generate-codecamp/issues/1)
     * [ ] ...
 2. [ ] **`v1.0.0`** beta release
     * [ ] ...
