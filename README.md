@@ -5,6 +5,8 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 
 # [roadmap](https://github.com/playproject-io/roadmapping#roadmap)
 1. [ ] **`v0.0.0`** alpha release
+    * [ ] [`roadmapping#2`: transition ethereum/play/issues and ethereum-play issues to playproject-io](https://github.com/playproject-io/roadmapping/issues/2)
+    * [ ] [`roadmapping#23`: transition ethereum/play repo and ethereum-play repos to playproject-io](https://github.com/playproject-io/roadmapping/issues/23)
     * [ ] [`roadmapping#1`: `2019.08.20-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/1)
     * [ ] [`smartcontract.codes#1`: make separate component **notify**](https://github.com/playproject-io/smartcontract.codes/issues/1)
     * [ ] [`smartcontract.codes#2`: makeNavigation component (pagination, etc...) to browse results better](https://github.com/playproject-io/smartcontract.codes/issues/2)
