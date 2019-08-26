@@ -196,7 +196,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [x] 2019.08.16 **[`play#11` | define process of outsourcing tasks and how to pay for it | TRANSITION](https://github.com/ethereum/play/issues/11)**
     * [x] 2019.08.16 **[`play#9` | document contribution process in readme | TRANSITION](https://github.com/ethereum/play/issues/9)**
     * [x] 2019.08.16 **[`play#9` | publish as npm module | TRANSITION](https://github.com/ethereum/play/issues/9)**
-    * [x] 2019.08.20 [`roadmapping#25`: `2019.08.20-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/25)
+    * [x] ~~2019.08.20 [`roadmapping#25`: `2019.08.20-15:00Z` | CANCELED](https://github.com/playproject-io/roadmapping/issues/25)~~
     * [x] 2019.08.25 [`roadmapping#11`: 2019.08.25\2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
     * [x] 2019.08.26 **[`play#60` | UI - to switch the compilation versions | TRANSITION](https://github.com/ethereum/play/issues/60)**
     * [x] 2019.08.26 [`roadmapping#2`: transition ethereum/play/issues and ethereum-play issues to playproject-io](https://github.com/playproject-io/roadmapping/issues/2)
