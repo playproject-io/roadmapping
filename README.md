@@ -3,6 +3,26 @@ roadmapping for the play project
 
 In the long term, the github page of this repository is supposed to offer p2p based tooling to support the roadmapping process. The tooling will "pull in" data about issues, pull requests, etc... from other repositories to provide improved overview.
 
+---
+# [objectives](https://github.com/playproject-io/roadmapping#objectives)
+1. [org-page](https://github.com/playproject-io/playproject-io.github.io)
+    * [blog](https://github.com/playproject-io/blog)
+2. [hosting](https://github.com/playproject-io/hosting)
+    * [aybabtu](https://github.com/playproject-io/aybabtu)
+3. [smartcontract.codes](https://github.com/playproject-io/smartcontract.codes)
+    * [play-ed](https://github.com/playproject-io/play-ed)
+        * [smartcontract-ui](https://github.com/playproject-io/smartcontract-ui)
+        * [solc-js](https://github.com/playproject-io/solc-js)
+    * [scsen](https://github.com/playproject-io/scsen)
+    * [solverify](https://github.com/playproject-io/solverify)
+4. [wallet](https://github.com/playproject-io/wallet)
+    * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
+    * [wallet-data](https://github.com/playproject-io/wallet-data)
+5. [roadmapping](https://github.com/playproject-io/roadmapping)
+    * [generate-workshop](https://github.com/playproject-io/generate-workshop)
+    * [generate-codecamp](https://github.com/playproject-io/generate-codecamp)
+
+---
 # [roadmap](https://github.com/playproject-io/roadmapping#roadmap)
 1. [ ] **`v0.0.0`** alpha release
     * [x] 2019.08.20 [`roadmapping#25`: `2019.08.20-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/25)
@@ -67,25 +87,6 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`roadmapping#16`: publish/create/display (paid) tasks](https://github.com/playproject-io/roadmapping/issues/16)
     * [ ] [`roadmapping#18`: open & maintain legal entity to do business](https://github.com/playproject-io/roadmapping/issues/18)
     * [ ] ...
-
----
-# [objectives](https://github.com/playproject-io/roadmapping#objectives)
-1. [org-page](https://github.com/playproject-io/playproject-io.github.io)
-    * [blog](https://github.com/playproject-io/blog)
-2. [hosting](https://github.com/playproject-io/hosting)
-    * [aybabtu](https://github.com/playproject-io/aybabtu)
-3. [smartcontract.codes](https://github.com/playproject-io/smartcontract.codes)
-    * [play-ed](https://github.com/playproject-io/play-ed)
-        * [smartcontract-ui](https://github.com/playproject-io/smartcontract-ui)
-        * [solc-js](https://github.com/playproject-io/solc-js)
-    * [scsen](https://github.com/playproject-io/scsen)
-    * [solverify](https://github.com/playproject-io/solverify)
-4. [wallet](https://github.com/playproject-io/wallet)
-    * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
-    * [wallet-data](https://github.com/playproject-io/wallet-data)
-5. [roadmapping](https://github.com/playproject-io/roadmapping)
-    * [generate-workshop](https://github.com/playproject-io/generate-workshop)
-    * [generate-codecamp](https://github.com/playproject-io/generate-codecamp)
 
 ---
 # changelog
