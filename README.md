@@ -3,13 +3,14 @@ roadmapping for the play project
 
 In the long term, the github page of this repository is supposed to offer p2p based tooling to support the roadmapping process. The tooling will "pull in" data about issues, pull requests, etc... from other repositories to provide improved overview.
 
-**Table of Content**
-1. [changelog](#changelog)
-2. [roadmap](#roadmap)
-3. [objectives](#objectives)
+# Table of Content
+## 1. [changelog](#changelog)
+## 2. [roadmap](#roadmap)
+## 3. [objectives](#objectives)
 
 ---
 # changelog
+**`v0.0.0`** pre alpha release
 * **2018.07**
     * [x] **[`2018.07.24-17:30Z#4` | weekly partner meeting](https://github.com/ethereum/play/issues/4)**
     * [x] **[`2018.07.31-17:30Z#17` | weekly partner meeting](https://github.com/ethereum/play/issues/17)**
@@ -195,16 +196,16 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [x] 2019.08.16 **[`play#11` | define process of outsourcing tasks and how to pay for it | TRANSITION](https://github.com/ethereum/play/issues/11)**
     * [x] 2019.08.16 **[`play#9` | document contribution process in readme | TRANSITION](https://github.com/ethereum/play/issues/9)**
     * [x] 2019.08.16 **[`play#9` | publish as npm module | TRANSITION](https://github.com/ethereum/play/issues/9)**
+    * [x] 2019.08.20 [`roadmapping#25`: `2019.08.20-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/25)
+    * [x] 2019.08.25 [`roadmapping#11`: 2019.08.25\2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
     * [x] 2019.08.26 **[`play#60` | UI - to switch the compilation versions | TRANSITION](https://github.com/ethereum/play/issues/60)**
+    * [x] 2019.08.26 [`roadmapping#2`: transition ethereum/play/issues and ethereum-play issues to playproject-io](https://github.com/playproject-io/roadmapping/issues/2)
 * **2019.09**
 
 
 ---
 # [roadmap](https://github.com/playproject-io/roadmapping#roadmap)
-1. [ ] **`v0.0.0`** alpha release
-    * [x] 2019.08.20 [`roadmapping#25`: `2019.08.20-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/25)
-    * [x] 2019.08.25 [`roadmapping#11`: 2019.08.25\2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
-    * [x] 2019.08.26 [`roadmapping#2`: transition ethereum/play/issues and ethereum-play issues to playproject-io](https://github.com/playproject-io/roadmapping/issues/2)
+1. [ ] **`v0.0.0`** alpha release @ `2019.10.01`
     * [ ] [`roadmapping#1`: `2019.08.27-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/1)
     * [ ] [`roadmapping#8` 2019.09.01,??? | coding meetup | UK](https://github.com/playproject-io/roadmapping/issues/8)
     * [ ] [`roadmapping#7` 2019.10.20,2019.11.20 | code camp | thailand](https://github.com/playproject-io/roadmapping/issues/7)
@@ -257,7 +258,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`play-ed#11`: iframe browser](https://github.com/playproject-io/play-ed/issues/11)
     * [ ] [`generate-codecamp#1`: generate-codecamp concept & updates](https://github.com/playproject-io/generate-codecamp/issues/1)
     * [ ] ...
-2. [ ] **`v1.0.0`** beta release
+2. [ ] **`v1.0.0`** beta release @ `2020.01.01`
     * [ ] ...
 3. [ ] **`v?.?.?`** backlog
     * [ ] [`solc-js#9`: (add vyper compiler)](https://github.com/playproject-io/solc-js/issues/9)
