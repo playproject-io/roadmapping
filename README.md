@@ -5,9 +5,9 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 
 # [roadmap](https://github.com/playproject-io/roadmapping#roadmap)
 1. [ ] **`v0.0.0`** alpha release
-    * [x] [`roadmapping#2`: transition ethereum/play/issues and ethereum-play issues to playproject-io](https://github.com/playproject-io/roadmapping/issues/2)
-    * [x] [`roadmapping#25`: `2019.08.20-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/25)
-    * [x] [`roadmapping#11`: 2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
+    * [x] 2019.08.20 [`roadmapping#25`: `2019.08.20-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/25)
+    * [x] 2019.08.25 [`roadmapping#11`: 2019.08.25\2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
+    * [x] 2019.08.26 [`roadmapping#2`: transition ethereum/play/issues and ethereum-play issues to playproject-io](https://github.com/playproject-io/roadmapping/issues/2)
     * [ ] [`roadmapping#1`: `2019.08.27-15:00Z` weekly team meeting](https://github.com/playproject-io/roadmapping/issues/1)
     * [ ] [`roadmapping#8` 2019.09.01,??? | coding meetup | UK](https://github.com/playproject-io/roadmapping/issues/8)
     * [ ] [`roadmapping#7` 2019.10.20,2019.11.20 | code camp | thailand](https://github.com/playproject-io/roadmapping/issues/7)
