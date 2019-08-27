@@ -105,6 +105,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [x] **`2019.07.23-15:00Z` | weekly partner meeting**
     * [x] **`2019.07.30-15:00Z` | weekly partner meeting**
 * **2019.08**
+    * [x] 2019.08.03 [`roadmapping#26`: 2019.08.04\2019.08.02 | prepare and present at EthIndia remote](https://github.com/playproject-io/roadmapping/issues/26)
     * [x] **`2019.08.06-15:00Z` | weekly partner meeting**
     * [x] 2019.08.10 **[`play#145` | Searchable collection page](https://github.com/ethereum/play/issues/145)**
     * [x] 2019.08.10 **[`play#140` | `Collection` landing page - wireframe](https://github.com/ethereum/play/issues/140)**
