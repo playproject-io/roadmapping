@@ -27,6 +27,7 @@
     * [x] **[`2018.10.23-17:00Z#39` | weekly partner meeting](https://github.com/ethereum/play/issues/39)**
     * [x] **[`2018.10.30-17:00Z#40` | weekly partner meeting](https://github.com/ethereum/play/issues/40)**
 * **2018.11**
+    * [x] 2018.11.06 [`workshop-fitbit-dapp#1`: fix metamask issue](https://github.com/ethereum-play/workshop-fitbit-dapp/issues/1)
     * [x] **[`2018.11.06-17:00Z#42` | weekly partner meeting](https://github.com/ethereum/play/issues/42)**
     * [x] 2018.11.11 **[`play#23` | use public test chain, it need to waiting very long time to get callback. | TRANSITION](https://github.com/ethereum/play/issues/23)**
     * [x] 2019.11.12 **[`play#30` | Fitbit workshop: User experience (UX) | TRANSITION](https://github.com/ethereum/play/issues/30)**
@@ -90,12 +91,16 @@
     * [x] 2019.07.08 **[`play#133` | UX for HackMd/Codepen](https://github.com/ethereum/play/issues/133)**
     * [x] **`2019.07.09-15:00Z` | weekly partner meeting**
     * [x] 2019.07.11 **[`play#63` | display compiler output | TRANSITION](https://github.com/ethereum/play/issues/63)**
+    * [x] 2019.07.16 **[`etherscan-scraper#2` | Get the scraper to dump data into a folder using the Node FS API | TRANSITION](https://github.com/ethereum-play/etherscan-scraper/issues/2)**
+    * [x] 2019.07.16 **[`etherscan-scraper#1` | brainstorming](https://github.com/ethereum-play/etherscan-scraper/issues/1)**
     * [x] **`2019.07.16-15:00Z` | weekly partner meeting**
     * [x] **`2019.07.23-15:00Z` | weekly partner meeting**
     * [x] **`2019.07.30-15:00Z` | weekly partner meeting**
 * **2019.08**
+    * [x] 2019.08.01 **[`smartcontract.codes#5` | use JSON.stringify to pass contracts](https://github.com/ethereum-play/smartcontract.codes/issues/5)**
     * [x] 2019.08.03 [`roadmapping#26`: 2019.08.04\2019.08.02 | prepare and present at EthIndia remote](https://github.com/playproject-io/roadmapping/issues/26)
     * [x] **`2019.08.06-15:00Z` | weekly partner meeting**
+    * [x] 2019.08.07 **[`etherscan-scraper#8` | scraper until presentation](https://github.com/ethereum-play/etherscan-scraper/issues/8)**
     * [x] 2019.08.10 **[`play#145` | Searchable collection page](https://github.com/ethereum/play/issues/145)**
     * [x] 2019.08.10 **[`play#140` | `Collection` landing page - wireframe](https://github.com/ethereum/play/issues/140)**
     * [x] 2019.08.13 **[`play#153` | make separate `notify` component | TRANSITION](https://github.com/ethereum/play/issues/153)**
@@ -186,7 +191,11 @@
     * [x] 2019.08.16 **[`play#11` | define process of outsourcing tasks and how to pay for it | TRANSITION](https://github.com/ethereum/play/issues/11)**
     * [x] 2019.08.16 **[`play#9` | document contribution process in readme | TRANSITION](https://github.com/ethereum/play/issues/9)**
     * [x] 2019.08.16 **[`play#9` | publish as npm module | TRANSITION](https://github.com/ethereum/play/issues/9)**
+    * [x] 2019.08.16 **[`etherscan-scraper#9` | verify source code | TRANSITION](https://github.com/ethereum-play/etherscan-scraper/issues/9)**
+    * [x] 2019.08.16 **[`etherscan-scraper#7` | handle fetching an always up-to-date list of proxy servers | TRANSITION](https://github.com/ethereum-play/etherscan-scraper/issues/7)**
+    * [x] 2019.08.16 **[`etherscan-scraper#6` | update scraper | TRANSITION](https://github.com/ethereum-play/etherscan-scraper/issues/6)**
+    * [x] 2019.08.16 **[`etherscan-scraper#5` | store all and add more smart contract source codes to dat and publish on DHT | TRANSITION](https://github.com/ethereum-play/etherscan-scraper/issues/5)**
+    * [x] 2019.08.16 **[`etherscan-scraper#4` | process all stored source codes into the correct format | TRANSITION](https://github.com/ethereum-play/etherscan-scraper/issues/4)**
     * [x] ~~2019.08.20 [`roadmapping#25`: `2019.08.20-15:00Z` | CANCELED](https://github.com/playproject-io/roadmapping/issues/25)~~
-    * [x] 2019.08.16 **[`play#9` | publish as npm module | TRANSITION](https://github.com/ethereum/play/issues/9)**
     * [x] 2019.08.25 [`roadmapping#11`: 2019.08.25\2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
     * [x] 2019.08.25 [`roadmapping#27`: **release pre-alpha**](https://github.com/playproject-io/roadmapping/issues/27)
