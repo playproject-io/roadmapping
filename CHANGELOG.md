@@ -1,5 +1,5 @@
 # changelog
-## `v0.0.0` pre alpha release
+## `v0.0.0` pre alpha release - plan/actual : ---/2019.08.25
 * **2018.07**
     * [x] **[`2018.07.24-17:30Z#4` | weekly partner meeting](https://github.com/ethereum/play/issues/4)**
     * [x] **[`2018.07.31-17:30Z#17` | weekly partner meeting](https://github.com/ethereum/play/issues/17)**
