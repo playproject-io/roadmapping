@@ -10,8 +10,8 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 
 ---
 # changelog
-## [`v0.0.0` pre alpha release](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md#v000-pre-alpha-release)
-## `v0.0.1-alpha` alpha release
+## [`v0.0.0` pre alpha release - plan/actual : ---/2019.08.25](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md#v000-pre-alpha-release)
+## `v0.0.1-alpha` alpha release - plan/actual : 2019.10.01/????.??.??
 * **2019.09**
     * [x] 2019.08.26 **[`play#60` | UI - to switch the compilation versions | TRANSITION](https://github.com/ethereum/play/issues/60)**
     * [x] 2019.08.26 [`roadmapping#2`: transition ethereum/play/issues and ethereum-play issues to playproject-io](https://github.com/playproject-io/roadmapping/issues/2)
