@@ -9,7 +9,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 ## 3. [objectives](#objectives)
 
 ---
-# changelog
+# [changelog](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md)
 ## [`v0.0.0` pre alpha release - plan/actual : ---/2019.08.25](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md#v000-pre-alpha-release---planactual-----20190825)
 
 ## [`v0.0.1-alpha` release - plan/actual : 2019.10.01/????.??.??](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md#v001-alpha-release---planactual--20191001)
