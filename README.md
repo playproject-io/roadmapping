@@ -85,6 +85,11 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 ---
 # [objectives](https://github.com/playproject-io/roadmapping#objectives)
 1. [org-page](https://github.com/playproject-io/playproject-io.github.io)
+    * [brand](https://github.com/playproject-io/brand)
+        * [play-components](https://github.com/playproject-io/play-components)
+    * [roadmapping](https://github.com/playproject-io/roadmapping)
+        * [generate-workshop](https://github.com/playproject-io/generate-workshop)
+        * [generate-codecamp](https://github.com/playproject-io/generate-codecamp)
     * [blog](https://github.com/playproject-io/blog)
 2. [hosting](https://github.com/playproject-io/hosting)
     * [aybabtu](https://github.com/playproject-io/aybabtu)
@@ -97,6 +102,3 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 4. [wallet](https://github.com/playproject-io/wallet)
     * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
     * [wallet-data](https://github.com/playproject-io/wallet-data)
-5. [roadmapping](https://github.com/playproject-io/roadmapping)
-    * [generate-workshop](https://github.com/playproject-io/generate-workshop)
-    * [generate-codecamp](https://github.com/playproject-io/generate-codecamp)
