@@ -39,6 +39,8 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [x] 2019.08.27 **[`smartcontract.codes#9` | SEARCH BAR component | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/9)**
     * [x] 2019.08.27 **[`smartcontract.codes#8` | CARD component | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/8)**
     * [x] [`roadmapping#1`: `2019.08.27-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/1)
+    * [x] [`roadmapping#1`: `2019.09.03-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/10)
+    * [x] [`roadmapping#1`: `2019.09.10-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/28)
 * **2019.09**
 
 ---
