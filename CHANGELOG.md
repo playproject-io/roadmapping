@@ -1,4 +1,5 @@
 # changelog
+
 ## `v0.0.0` pre alpha release - plan/actual : ---/2019.08.25
 * **2018.07**
     * [x] **[`2018.07.24-17:30Z#4` | weekly partner meeting](https://github.com/ethereum/play/issues/4)**
@@ -199,3 +200,32 @@
     * [x] ~~2019.08.20 [`roadmapping#25`: `2019.08.20-15:00Z` | CANCELED](https://github.com/playproject-io/roadmapping/issues/25)~~
     * [x] 2019.08.25 [`roadmapping#11`: 2019.08.25\2019.08.23 | attend and present at blockchain week](https://github.com/playproject-io/roadmapping/issues/11)
     * [x] 2019.08.25 [`roadmapping#27`: **release pre-alpha**](https://github.com/playproject-io/roadmapping/issues/27)
+
+## `v0.0.1-alpha` release - plan/actual : 2019.10.01/????.??.??
+* **2019.08**
+    * [x] 2019.08.26 **[`play#60` | UI - to switch the compilation versions | TRANSITION](https://github.com/ethereum/play/issues/60)**
+    * [x] 2019.08.26 [`roadmapping#2`: transition ethereum/play/issues and ethereum-play issues to playproject-io](https://github.com/playproject-io/roadmapping/issues/2)
+    * [x] 2019.08.27 **[`wallet#6` | how to manage granted permissions? | TRANSITION](https://github.com/ethereum-play/wallet/issues/6)**
+    * [x] 2019.08.27 **[`wallet#5` | brainstorming (prepare for an EIP/ERC proposal) | TRANSITION](https://github.com/ethereum-play/wallet/issues/5)**
+    * [x] 2019.08.27 **[`wallet#4` | how do people implement and specify new features a wallet and dapp could support? | TRANSITION](https://github.com/ethereum-play/wallet/issues/4)**
+    * [x] 2019.08.27 **[`wallet#3` | which "atomic" features exist today that wallets should or can support and how do they work? | TRANSITION](https://github.com/ethereum-play/wallet/issues/3)**
+    * [x] 2019.08.27 **[`wallet#2` | whats the minimum functionality a wallet needs to support to "allow features"? | TRANSITION](https://github.com/ethereum-play/wallet/issues/2)**
+    * [x] 2019.08.27 **[`wallet#1` | what is the message format used to communicate directly over `.postMessage()`? | TRANSITION](https://github.com/ethereum-play/wallet/issues/1)**
+    * [x] 2019.08.27 **[`smartcontract.codes#27` | Fix pagination | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/27)**
+    * [x] 2019.08.27 **[`smartcontract.codes#26` | Add progress bar | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/26)**
+    * [x] 2019.08.27 **[`smartcontract.codes#25` | Disable search before initial page loads | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/25)**
+    * [x] 2019.08.27 **[`smartcontract.codes#24` | Add search query params to the URL | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/24)**
+    * [x] 2019.08.27 **[`smartcontract.codes#23` | Open editor always in a new tab | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/23)**
+    * [x] 2019.08.27 **[`smartcontract.codes#22` | Send compiler version to the editor | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/22)**
+    * [x] 2019.08.27 **[`smartcontract.codes#21` | Searching for a code snippet doesn't work | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/21)**
+    * [x] 2019.08.27 **[`smartcontract.codes#20` | refactor loading of contracts | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/20)**
+    * [x] 2019.08.27 **[`smartcontract.codes#18` | Avatar generator from contract address (on cards) | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/18)**
+    * [x] 2019.08.27 **[`smartcontract.codes#16` | Collection card cover | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/16)**
+    * [x] 2019.08.27 **[`smartcontract.codes#15` | Start blog section | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/15)**
+    * [x] 2019.08.27 **[`smartcontract.codes#14` | Loading spinner/gif | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/14)**
+    * [x] 2019.08.27 **[`smartcontract.codes#13` | Explain what smartcontract.codes does | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/13)**
+    * [x] 2019.08.27 **[`smartcontract.codes#12` | Profile images | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/12)**
+    * [x] 2019.08.27 **[`smartcontract.codes#10` | Collection page | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/10)**
+    * [x] 2019.08.27 **[`smartcontract.codes#9` | SEARCH BAR component | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/9)**
+    * [x] 2019.08.27 **[`smartcontract.codes#8` | CARD component | TRANSITION](https://github.com/ethereum-play/smartcontract.codes/issues/8)**
+    * [x] [`roadmapping#1`: `2019.08.27-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/1)
