@@ -4,18 +4,30 @@ roadmapping for the play project
 In the long term, the github page of this repository is supposed to offer p2p based tooling to support the roadmapping process. The tooling will "pull in" data about issues, pull requests, etc... from other repositories to provide improved overview.
 
 # Table of Content
-## 1. [changelog](#changelog)
+## 1. [objectives](#objectives)
 ## 2. [roadmap](#roadmap)
-## 3. [objectives](#objectives)
+## 3. [changelog](#changelog)
 
 ---
-# [changelog](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md)
-## [`v0.0.0` pre alpha release - plan/actual : ---/2019.08.25](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md#v000-pre-alpha-release---planactual-----20190825)
-
-## [`v0.0.1-alpha` release - plan/actual : 2019.10.01/????.??.??](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md#v001-alpha-release---planactual--20191001)
-* **2019.09**
-    * [x] [`roadmapping#1`: `2019.09.03-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/10)
-    * [x] [`roadmapping#1`: `2019.09.10-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/28)
+# [objectives](https://github.com/playproject-io/roadmapping#objectives)
+1. [org-page](https://github.com/playproject-io/playproject-io.github.io)
+    * [brand](https://github.com/playproject-io/brand)
+        * [play-components](https://github.com/playproject-io/play-components)
+    * [roadmapping](https://github.com/playproject-io/roadmapping)
+        * [generate-workshop](https://github.com/playproject-io/generate-workshop)
+        * [generate-codecamp](https://github.com/playproject-io/generate-codecamp)
+    * [blog](https://github.com/playproject-io/blog)
+2. [hosting](https://github.com/playproject-io/hosting)
+    * [aybabtu](https://github.com/playproject-io/aybabtu)
+3. [smartcontract.codes](https://github.com/playproject-io/smartcontract.codes)
+    * [play-ed](https://github.com/playproject-io/play-ed)
+        * [smartcontract-ui](https://github.com/playproject-io/smartcontract-ui)
+        * [solc-js](https://github.com/playproject-io/solc-js)
+    * [scsen](https://github.com/playproject-io/scsen)
+    * [solverify](https://github.com/playproject-io/solverify)
+4. [wallet](https://github.com/playproject-io/wallet)
+    * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
+    * [wallet-data](https://github.com/playproject-io/wallet-data)
 
 ---
 # [roadmap](https://github.com/playproject-io/roadmapping#roadmap)
@@ -83,22 +95,10 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] ...
 
 ---
-# [objectives](https://github.com/playproject-io/roadmapping#objectives)
-1. [org-page](https://github.com/playproject-io/playproject-io.github.io)
-    * [brand](https://github.com/playproject-io/brand)
-        * [play-components](https://github.com/playproject-io/play-components)
-    * [roadmapping](https://github.com/playproject-io/roadmapping)
-        * [generate-workshop](https://github.com/playproject-io/generate-workshop)
-        * [generate-codecamp](https://github.com/playproject-io/generate-codecamp)
-    * [blog](https://github.com/playproject-io/blog)
-2. [hosting](https://github.com/playproject-io/hosting)
-    * [aybabtu](https://github.com/playproject-io/aybabtu)
-3. [smartcontract.codes](https://github.com/playproject-io/smartcontract.codes)
-    * [play-ed](https://github.com/playproject-io/play-ed)
-        * [smartcontract-ui](https://github.com/playproject-io/smartcontract-ui)
-        * [solc-js](https://github.com/playproject-io/solc-js)
-    * [scsen](https://github.com/playproject-io/scsen)
-    * [solverify](https://github.com/playproject-io/solverify)
-4. [wallet](https://github.com/playproject-io/wallet)
-    * [wallet-simulator](https://github.com/playproject-io/wallet-simulator)
-    * [wallet-data](https://github.com/playproject-io/wallet-data)
+# [changelog](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md)
+## [`v0.0.0` pre alpha release - plan/actual : ---/2019.08.25](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md#v000-pre-alpha-release---planactual-----20190825)
+
+## [`v0.0.1-alpha` release - plan/actual : 2019.10.01/????.??.??](https://github.com/playproject-io/roadmapping/blob/master/CHANGELOG.md#v001-alpha-release---planactual--20191001)
+* **2019.09**
+    * [x] [`roadmapping#1`: `2019.09.03-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/10)
+    * [x] [`roadmapping#1`: `2019.09.10-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/28)
