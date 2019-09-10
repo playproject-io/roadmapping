@@ -47,6 +47,8 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 # [roadmap](https://github.com/playproject-io/roadmapping#roadmap)
 1. [ ] **`v0.0.1-alpha`** release @ `2019.10.01`
     * [ ] [`roadmapping#8` 2019.09.01,??? | coding meetup | UK](https://github.com/playproject-io/roadmapping/issues/8)
+    * [ ] [`play-components#1` play-components concept & updates](https://github.com/playproject-io/play-components/issues/1)
+    * [ ] [`brand#1` brand concept & updates](https://github.com/playproject-io/brand/issues/1)
     * [ ] [`roadmapping#1`: `2019.09.17-15:00Z` weekly partner meeting](https://github.com/playproject-io/roadmapping/issues/29)
     * [ ] [`roadmapping#7` 2019.10.20,2019.11.20 | code camp | thailand](https://github.com/playproject-io/roadmapping/issues/7)
     * [ ] [`roadmapping#6` 2019.12.01,2019.01.01 | code camp | south korea](https://github.com/playproject-io/roadmapping/issues/6)
