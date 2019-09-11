@@ -1,7 +1,11 @@
 # roadmapping
 roadmapping for the play project
 
+[DEMO](https://playproject-io.github.io/roadmapping)
+
 In the long term, the github page of this repository is supposed to offer p2p based tooling to support the roadmapping process. The tooling will "pull in" data about issues, pull requests, etc... from other repositories to provide improved overview.
+
+[![Join the chat at https://gitter.im/ethereum/play](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereum/play?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Table of Content
 ## 1. [objectives](#objectives)
