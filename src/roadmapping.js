@@ -1,6 +1,15 @@
 const csjs = require('csjs-inject')
 const bel = require('bel')
 
+const mxgraph = require('mxgraph')
+
+const modules = require('_modules')
+const about = require('_about')
+const specification = require('_specification')
+const roadmap = require('_roadmap')
+
+console.log(mxgraph) // @TODO: play with mxgraph
+
 module.exports = dashboard
 
 function dashboard (opts) {
@@ -30,45 +39,6 @@ function dashboard (opts) {
     content.innerHTML = ''
     content.appendChild(pages[route])
   }
-}
-function about (name) {
-  const css = csjs`
-  .about {
-    grid-area: header;
-    background-color: green;
-  }`
-  return bel`<div class=${css.about}>
-    <h1> ${name} organisation dashboard </h1>
-    <h2> ...work in progress... </h2>
-  </div>`
-}
-function modules () {
-  const css = csjs`
-  .modules {
-    grid-area: header;
-    background-color: yellow;
-  }`
-  return bel`<div class=${css.modules}>
-    modules
-  </div>`
-}
-function specification () {
-  const css = csjs`
-  .specification {
-    background-color: blue;
-  }`
-  return bel`<div class=${css.specification}>
-  specification
-  </div>`
-}
-function roadmap () {
-  const css = csjs`
-  .roadmap {
-    background-color: red;
-  }`
-  return bel`<div class=${css.roadmap}>
-  roadmap
-  </div>`
 }
 const css = csjs`
 .dashboard {
