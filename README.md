@@ -98,6 +98,7 @@ In the long term, the github page of this repository is supposed to offer p2p ba
     * [ ] [`solc-js#9`: (add vyper compiler)](https://github.com/playproject-io/solc-js/issues/9)
     * [ ] [`roadmapping#16`: publish/create/display (paid) tasks](https://github.com/playproject-io/roadmapping/issues/16)
     * [ ] [`roadmapping#18`: open & maintain legal entity to do business](https://github.com/playproject-io/roadmapping/issues/18)
+    * [ ] [`play-ed#15` - Source is lost after page refresh (f5)](https://github.com/playproject-io/play-ed/issues/15)
     * [ ] ...
 
 ---
