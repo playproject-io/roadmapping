@@ -95,10 +95,11 @@ In the long term, the github page of this repository is supposed to offer p2p ba
 2. [ ] **`v1.0.0`** beta release @ `2020.01.01`
     * [ ] ...
 3. [ ] **`v?.?.?`** backlog
-    * [ ] [`solc-js#9`: (add vyper compiler)](https://github.com/playproject-io/solc-js/issues/9)
-    * [ ] [`roadmapping#16`: publish/create/display (paid) tasks](https://github.com/playproject-io/roadmapping/issues/16)
-    * [ ] [`roadmapping#18`: open & maintain legal entity to do business](https://github.com/playproject-io/roadmapping/issues/18)
-    * [ ] [`play-ed#15` - Source is lost after page refresh (f5)](https://github.com/playproject-io/play-ed/issues/15)
+    * [x] [`solc-js#9`: (add vyper compiler)](https://github.com/playproject-io/solc-js/issues/9)
+    * [x] [`roadmapping#16`: publish/create/display (paid) tasks](https://github.com/playproject-io/roadmapping/issues/16)
+    * [x] [`roadmapping#18`: open & maintain legal entity to do business](https://github.com/playproject-io/roadmapping/issues/18)
+    * [x] [`play-ed#15` - Source is lost after page refresh (f5)](https://github.com/playproject-io/play-ed/issues/15)
+    * [x] [`play-ed#16` - Uncaught (in promise) TypeError: object null is not iterable ... at getCompilerVersion](https://github.com/playproject-io/play-ed/issues/16)
     * [ ] ...
 
 ---
